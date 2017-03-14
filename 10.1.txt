@@ -1,0 +1,12 @@
+
+1)LOAD the file from local system to grunt shell
+ 
+2)Tokenize the contents of the file 
+ 
+3)Group the similar words
+ 
+4) count the grouped  words
+ 
+5)output
+
+ 
